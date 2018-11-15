@@ -1,10 +1,18 @@
+v.0.1.0
+- added programmes:
+    Aljazeera Live [AR]
+    ATV [HU]
+    Digi24 Live [RO]
+    France24 Live [EN]
+    France24 Live [FR]
+    France24 Live [ES]
+    FranceInfo Live [FR]
+    PRO TV News [RO]
+
 v 0.0.1
 - release
   Programmes (streams) that work:
     Aljazeera Live [EN]
-    Aljazeera Live [AR]
-    ATV [HU]
-    Digi24 Live [RO]
     EuroNews Live [EN]
     EuroNews Live [FR]
     EuroNews Live [DE]
@@ -17,8 +25,4 @@ v 0.0.1
     EuroNews Live [TR]
     EuroNews Live [FA]
     EuroNews Live [AR]
-    France24 Live [EN]
-    France24 Live [FR]
-    France24 Live [ES]
-    FranceInfo Live [FR]
-    PRO TV News [RO]
+

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.world.tv.news.live"
        name="World TV News-Live"
-       version="0.0.1.d"
+       version="0.1.0.e"
        provider-name="dexterke, Secret Laboratories">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
