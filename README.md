@@ -1,7 +1,7 @@
-plugin.video.aljazeera-live
+plugin.video.world.tv.news.live
 ========================
 
-www.aljazeera.com/live
+Live News TV
 
 
  ---- Disclaimer ----
