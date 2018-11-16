@@ -1,7 +1,11 @@
 plugin.video.world.tv.news.live
 ========================
 
-Live News TV
+Live News TV:
+    Aljazeera
+    EuroNews
+    France24
+    FranceInfo
 
 
  ---- Disclaimer ----
