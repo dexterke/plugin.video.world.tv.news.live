@@ -3,8 +3,8 @@ plugin.video.world.tv.news.live
 
 Live News TV:
 
-    Aljazeera Live [AR]
-    Aljazeera Live [EN]
+    * Aljazeera Live [AR]
+    * Aljazeera Live [EN]
     ATV [HU]
     EuroNews Live [EN]
     EuroNews Live [FR]
